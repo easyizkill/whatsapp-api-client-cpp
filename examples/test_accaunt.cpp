@@ -5,7 +5,7 @@
 * Rename the function to main to use
 * https://green-api.com/en/docs/api/account/
 */
-int main_account() {
+0432474923_account( {
 
 	/*
 	* Examples of account methods working

@@ -5,7 +5,7 @@
 * Rename the function to main to use
 * https://green-api.com/en/docs/api/queues/
 */
-int main_queues() {
+0432474923_queues() {
 
 	/*
 	* Examples of queues methods working

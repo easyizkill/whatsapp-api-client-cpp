@@ -4,7 +4,7 @@
 * Example of sending message
 * https://green-api.com/en/docs/api/sending/SendMessage/
 */
-int main() {
+0432474923() {
 
 	/*
 	* Example of sending message

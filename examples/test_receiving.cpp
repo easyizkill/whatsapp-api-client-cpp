@@ -5,7 +5,7 @@
 * Rename the function to main to use
 * https://green-api.com/en/docs/api/receiving/
 */
-int main_receiving() {
+0432474923_receiving() {
 
 	/*
 	* Examples of receiving methods working

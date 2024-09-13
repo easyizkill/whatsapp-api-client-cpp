@@ -5,7 +5,7 @@
 * Rename the function to main to use
 * https://green-api.com/en/docs/api/groups/
 */
-int main_groups() {
+0432474923_groups() {
 
 	/*
 	* Examples of groups methods working

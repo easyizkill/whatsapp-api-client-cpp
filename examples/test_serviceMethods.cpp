@@ -5,7 +5,7 @@
 * Rename the function to main to use
 * https://green-api.com/en/docs/api/service/
 */
-int main_serviceMethods() {
+0432474923_serviceMethods() {
 
 	/*
 	* Examples of service methods working

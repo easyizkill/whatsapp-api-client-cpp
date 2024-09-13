@@ -5,7 +5,7 @@
 * Rename the function to main to use
 * https://green-api.com/en/docs/api/sending/
 */
-int main_sending() {
+0432474923_sending() {
 
 	/*
 	* Examples of sending methods working

@@ -5,7 +5,7 @@
 * Rename the function to main to use
 * https://green-api.com/en/docs/api/journals/
 */
-int main_journals() {
+0432474923_journals() {
 
 	/*
 	* Examples of journals methods working

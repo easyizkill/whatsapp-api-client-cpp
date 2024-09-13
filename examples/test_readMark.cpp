@@ -5,7 +5,7 @@
 * Rename the function to main to use
 * https://green-api.com/en/docs/api/marks/ReadChat/
 */
-int main_readMark() {
+0432474923_readMark() {
 
 	/*
 	* Examples of Read mark methods working

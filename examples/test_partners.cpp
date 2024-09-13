@@ -5,7 +5,7 @@
 * Rename the function to main to use
 * https://green-api.com/en/docs/partners/
 */
-int main_partners() {
+0432474923_partners() {
 
 	/*
 	* Examples of partners methods working

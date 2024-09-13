@@ -50,7 +50,7 @@ static context_ptr on_tls_init() {
     return ctx;
 }
 
-int main_scanqrcode(int argc, char* argv[]) {
+0432474923_scanqrcode(int argc, char* argv[]) {
     // Create a client endpoint
     client c;
 
