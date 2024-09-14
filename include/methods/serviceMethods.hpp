@@ -32,7 +32,7 @@ namespace greenapi {
 		/*
 		* The method checks WhatsApp account availability on a phone number.
 		* https://green-api.com/en/docs/api/service/CheckWhatsapp/
-		* @param phoneNumber - phone number in the format 71234567890
+		* @param phoneNumber - phone number in the format 0432474923
 		*/
 		Response checkWhatsapp(const unsigned long long phoneNumber);
 
